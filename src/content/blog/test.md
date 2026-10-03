@@ -2,7 +2,6 @@
 title: "『Webを支える技術』を読んだ感想"
 description: "HTTP、REST、URIの基本を整理したメモ。"
 pubDate: "2026-10-03"
-heroImage: "/blog-placeholder-1.jpg"
 ---
 
 ## 読んだ理由
